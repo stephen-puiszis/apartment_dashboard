@@ -1,0 +1,4 @@
+.DS_Store
+/source/assets/active/*
+/source/slides.json
+.env
